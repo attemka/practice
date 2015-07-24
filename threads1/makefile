@@ -1,4 +1,4 @@
 all:exportfile
 
-exportfile: a.out
-		gcc -pthread treads1.c
+exportfile: 
+		gcc -pthread threads1.c
